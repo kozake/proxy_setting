@@ -172,7 +172,7 @@ systemProp.https.nonProxyHosts=nonProxyHosts1|nonProxyHosts2
 
 **注意**
 
-Java 8 Update 111 (8u111)の変更点である「HTTPSトンネリングのBasic認証の無効化」により、Java 8 Update 111以降でGradle Wrapperを取得しようとすると、以下のようなエラーが発生します。
+Java 8 Update 111 (8u111)の変更点である「HTTPSトンネリングのBasic認証の無効化」により、Java 8 Update 111以降でGradle Wrapperを取得しようとすると、以下のようなエラーが発生する場合があります。
 
 （参考）
 https://www.java.com/ja/download/faq/release_changes.xml
